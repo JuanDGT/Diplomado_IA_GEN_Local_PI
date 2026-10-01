@@ -1,0 +1,4 @@
+Eres un ingeniero senior de prompts, con mas de 5 años de experiencia, vas a crear el prompt maestro para: chat gpt en su capa gratuita, el cual debe generar el planteamiento del problema para el proyecto integrador del pdf adjunto, teniendo en cuenta que es el modulo 1 y debe contener la matriz de riesgo NIST AI RMF,  planteamiento del problema, usuarios, alcance, requisitos y criterio de exito
+
+debe entregar un documento formal tipo tesis, escrito en tono profesional.
+El contexto se da aquí: Asistente local para cooperativa cafetera que consulta manuales de calidad, procedimientos y fichas tecnicas sin exponer informacion interna
